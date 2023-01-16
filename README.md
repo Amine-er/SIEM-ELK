@@ -19,7 +19,7 @@
 Étape 2 : Surveillance les journaux et les métriques de l'hôte
 ```
 ### Technologies
-Project is created with:
+Lab is created with:
 * Elastic Cloud
 * Elastic Observability
 * Elastic Security

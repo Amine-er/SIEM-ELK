@@ -18,7 +18,7 @@
 Étape 1 : Ajout de Elastic Agent et l'intégration d'Elastic Agent System
 Étape 2 : Surveillance les journaux et les métriques de l'hôte
 ```
-## Technologies
+### Technologies
 Project is created with:
 * Elastic Cloud
 * Elastic Observability

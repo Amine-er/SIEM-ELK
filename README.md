@@ -1,14 +1,14 @@
 ## Mise place d'une solution de "SIEM : Security Information and Event Management" : ELK 
 
 ### Table of contents
-* [Tâche 1 : Utilisation de Elastic Security pour SIEM](https://github.com/Amine-er/SIEM-ELK/edit/main/README.md#t%C3%A2che-1--utilisation-de-elastic-security-pour-siem-1)
+* [Tâche 1 : Utilisation de Elastic Security pour SIEM](https://github.com/Amine-er/SIEM-ELK#t%C3%A2che-1--utilisation-de-elastic-security-pour-siem)
 ```python
 Étape 1 : Création d’un déploiement Elastic Cloud
 Étape 2 : Ajout de l'intégration Network Packet Capture sur la machine
 Étape 3 : Installation de Elastic Agent sur la machine
 Étape 4 : Affichage des données
 ```
-* [Tâche 2 : Surveillance les applications et les systèmes avec Elastic Observability](https://github.com/Amine-er/SIEM-ELK/edit/main/README.md#t%C3%A2che-2--surveillance-les-applications-et-les-syst%C3%A8mes-avec-elastic-observability-1)
+* [Tâche 2 : Surveillance les applications et les systèmes avec Elastic Observability](https://github.com/Amine-er/SIEM-ELK#t%C3%A2che-2--surveillance-les-applications-et-les-syst%C3%A8mes-avec-elastic-observability)
 ```python
 Étape 1 : Ajout de Elastic Agent et l'intégration d'Elastic Agent System
 Étape 2 : Surveillance les journaux et les métriques de l'hôte

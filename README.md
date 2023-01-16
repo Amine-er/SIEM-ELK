@@ -24,6 +24,9 @@ Lab is created with:
 * Elastic Observability
 * Elastic Security
 
+### PDF Version
+<a href="https://drive.google.com/file/d/17XsXfCRMbvqma8kMosUXo9-eVF2vwYCH/view?usp=sharing" target="blank"> SIEM-ELK Practical lab </a>
+
 <h3 align="left">Demo:</h3>
 <p align="left">
 <a href="https://www.youtube.com/watch?v=lYFLM_g00po&ab_channel=STRI_2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=lYFLM_g00po&ab_channel=STRI_2023" height="30" width="40" /></a>

@@ -1,6 +1,5 @@
 ## Mise place d'une solution de "SIEM : Security Information and Event Management" : ELK 
 
-### Étapes abordées dans ce Lab Pratique :
 ### Table of contents
 * [Tâche 1 : Utilisation de Elastic Security pour SIEM](https://github.com/Amine-er/SIEM-ELK/edit/main/README.md#t%C3%A2che-1--utilisation-de-elastic-security-pour-siem-1)
 ```python
